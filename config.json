@@ -1,0 +1,6 @@
+{
+"url":"<your home assistant URL>/api/states/input_boolean.computer_idle",
+"auth":"<Long-Lived Access Token>",
+"interval":10,
+"consider_afk":60
+}
